@@ -1,0 +1,16 @@
+/* GLOBAL SPACE THEME */
+body {
+  background-color: #0b0d1b; /* Dark space background */
+  color: #ffffff; /* White text for contrast */
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+
+/* MAIN TITLE STYLE */
+h1 {
+  font-size: 2.5rem;
+  color: #4cc9f0; /* Neon space blue */
+  text-shadow: 0 0 10px #4cc9f0;
+}
